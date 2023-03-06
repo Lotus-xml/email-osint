@@ -20,7 +20,7 @@ print(f'\33]0;{femboy}\a', end='', flush=True)
 
 sus = input("Enter the target email: ")
 giantcock()
-print("Holehe:")
+print("Holehe:") #yes i was too lazy to actually use the module lol
 os.system(f'holehe --only-used {sus}')
 if "@gmail.com" in sus:
   #print(f"Google ID: {id}")
