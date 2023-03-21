@@ -1,3 +1,4 @@
+#i wont be updating this lol
 import os
 import sys
 try:
